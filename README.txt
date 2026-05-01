@@ -64,9 +64,6 @@ opencv_app/
 ├── camara.py
 ├── filtros.py
 ├── README.md
-└── evidencia/
-  └── video.mp4
-
 ---
 
 ## Ejecución
